@@ -23,16 +23,16 @@
 1. 맵 - MainMenu
 2. UI
    1. 기능
-    - 게임 시작
-    - 나가기
+   게임 시작
+   나가기
 
 ### 필드
 1. 맵 - OceanField
 2. 플레이어_이동
    1. 캐릭터
-    ![Player](https://user-images.githubusercontent.com/29518708/174002536-d677699f-e5f6-448a-ad0a-2970af9b5afc.png)
+![Player](https://user-images.githubusercontent.com/29518708/174002536-d677699f-e5f6-448a-ad0a-2970af9b5afc.png)
    2. 시점
-   - 3인칭 / 캐릭터 뒤 카메라 고정, 마우스로 회전
+   3인칭 / 캐릭터 뒤 카메라 고정, 마우스로 회전
    3. 점프 기능
 3. 적_이동
    1. 캐릭터
@@ -43,13 +43,13 @@
  간단한 전투 레벨
 2. 플레이어_전투
    1. 능력치 
-   - HP, MP, EXP, AD(공격력)
+   HP, MP, EXP, AD(공격력)
    2. 전투
-   - 공격
-   - 스킬
+   공격
+   스킬
 3. 적_전투
    1. 능력치
-   - HP, MP, AD(공격력)
+   HP, MP, AD(공격력)
    2. 전투
-   - 공격
-   - 스킬
+   공격
+   스킬
