@@ -31,6 +31,8 @@
 
 ![LevelSample](https://user-images.githubusercontent.com/29518708/174003570-7478fb62-d288-48d3-afde-77c7eeba68be.png)
 
+- 외부 회복 시스템(미정)
+
 ### 플레이어(이동)
 - 캐릭터
 
@@ -48,6 +50,12 @@
 - 비헤이비어트리 예상
 
 ## 전투
+### UI
+[참고용]
+
+![PocketmonBattleScene](https://user-images.githubusercontent.com/29518708/174214193-eb75b3ea-3517-42a3-9ef2-7763786ae4e6.jpg)
+
+마우스 클릭 방식
 ### 맵(BattleField)
 간단한 전투 레벨 예상
 
@@ -57,7 +65,10 @@
 
 2. 전투
  - 공격
- - 스킬
+ - 스킬 / 회복, 강타(기본 공격보다 쎈 공격), 리스크 공격(턴을 소비 후 다음턴에 강타보다 더 쎈 공격)
+ - 아이템
+ - 도망가기
+
 ### 적_전투
 1. 능력치
  - HP, MP, AD(공격력)
